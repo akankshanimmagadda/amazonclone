@@ -1,5 +1,4 @@
 # amazonclone
-#using 
-#Html
-#Css
-#Js
+Html
+Css
+Js
